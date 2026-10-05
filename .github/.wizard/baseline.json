@@ -1,0 +1,67 @@
+{
+  "templateVersion": "0.17.0",
+  "installedAt": "2026-10-05 14:38:33",
+  "files": {
+    "PROJECT-COMMON-AI-PR-SUMMARY.yaml": {
+      "installed": "sha256:19f828de5f1c5cb9e3510c42d258fdc5aa398d0164d1f8634f4785b6abc59fb4",
+      "rendered": "sha256:19f828de5f1c5cb9e3510c42d258fdc5aa398d0164d1f8634f4785b6abc59fb4"
+    },
+    "PROJECT-COMMON-AUTO-CHANGELOG-CONTROL.yaml": {
+      "installed": "sha256:799fc718f3ebf0fa0d521c7eb3a90c26df7eb69e3e4f2178495cde2159795f72",
+      "rendered": "sha256:799fc718f3ebf0fa0d521c7eb3a90c26df7eb69e3e4f2178495cde2159795f72"
+    },
+    "PROJECT-COMMON-ISSUE-HELPER.yaml": {
+      "installed": "sha256:846a177deae41e160eccb21fa66b95a6ccb593286c526832f2662b8e6e00b262",
+      "rendered": "sha256:846a177deae41e160eccb21fa66b95a6ccb593286c526832f2662b8e6e00b262"
+    },
+    "PROJECT-COMMON-README-VERSION-UPDATE.yaml": {
+      "installed": "sha256:b1b23fa86b7b6d6f1cacc256abcd8b8f2d46cee46012e1f361289b46d7940cb9",
+      "rendered": "sha256:b1b23fa86b7b6d6f1cacc256abcd8b8f2d46cee46012e1f361289b46d7940cb9"
+    },
+    "PROJECT-COMMON-RELEASE-PUBLISH.yaml": {
+      "installed": "sha256:963b3e0cc7e2c01ff2edcd6ee8f840fd8337f9215f61c810a4ff545767359a87",
+      "rendered": "sha256:963b3e0cc7e2c01ff2edcd6ee8f840fd8337f9215f61c810a4ff545767359a87"
+    },
+    "PROJECT-COMMON-VERSION-CONTROL.yaml": {
+      "installed": "sha256:53d0d86cd2fc029e1d0110e3bc86a560b82b531dd86ce900608c50edffc6006e",
+      "rendered": "sha256:53d0d86cd2fc029e1d0110e3bc86a560b82b531dd86ce900608c50edffc6006e"
+    },
+    "PROJECT-FLUTTER-ANDROID-FIREBASE-CICD.yaml": {
+      "installed": "sha256:00dae9007d480edc12cbb8e8e713d610c7dbe20adb9cc5e01d378220b4c8e92f",
+      "rendered": "sha256:00dae9007d480edc12cbb8e8e713d610c7dbe20adb9cc5e01d378220b4c8e92f"
+    },
+    "PROJECT-FLUTTER-ANDROID-PLAYSTORE-CICD.yaml": {
+      "installed": "sha256:9dbe409e6eed6d9c138bee6a8de19b33a758c51a90a489462d8354850088f7e6",
+      "rendered": "sha256:9dbe409e6eed6d9c138bee6a8de19b33a758c51a90a489462d8354850088f7e6"
+    },
+    "PROJECT-FLUTTER-ANDROID-SELFHOSTED-CICD.yaml": {
+      "installed": "sha256:5a223be64c209e72544bac3b3eecfd8a57ccce0e94a1d20baa812e3eee64486a",
+      "rendered": "sha256:5a223be64c209e72544bac3b3eecfd8a57ccce0e94a1d20baa812e3eee64486a"
+    },
+    "PROJECT-FLUTTER-ANDROID-TEST-APK.yaml": {
+      "installed": "sha256:4446fce9085fea9f276e405f6f0bae9a8ee4a54a6c06bf597eb32130bf7fea8c",
+      "rendered": "sha256:4446fce9085fea9f276e405f6f0bae9a8ee4a54a6c06bf597eb32130bf7fea8c"
+    },
+    "PROJECT-FLUTTER-APP-BUILD-TRIGGER.yaml": {
+      "installed": "sha256:56d36819a67134086126de7671ecd2d193e2739de0d356d84a9c56c4f682d4f8",
+      "rendered": "sha256:56d36819a67134086126de7671ecd2d193e2739de0d356d84a9c56c4f682d4f8"
+    },
+    "PROJECT-FLUTTER-CI.yaml": {
+      "installed": "sha256:594892c7f335a13f83c9beed967b735c0f25caa88abc40499537ae2faedfc508",
+      "rendered": "sha256:594892c7f335a13f83c9beed967b735c0f25caa88abc40499537ae2faedfc508"
+    },
+    "PROJECT-FLUTTER-IOS-TEST-TESTFLIGHT.yaml": {
+      "installed": "sha256:3c3aa7df98b102bd39e0ba1155623a3983b6bea184ef9243e81f227eb4632ca9",
+      "rendered": "sha256:3c3aa7df98b102bd39e0ba1155623a3983b6bea184ef9243e81f227eb4632ca9"
+    },
+    "PROJECT-FLUTTER-IOS-TESTFLIGHT.yaml": {
+      "installed": "sha256:f239e2e26b010017cb1b0b5266c151d3fe6cbfeb06553af09b7afcb04372637b",
+      "rendered": "sha256:f239e2e26b010017cb1b0b5266c151d3fe6cbfeb06553af09b7afcb04372637b"
+    }
+  },
+  "appFiles": {
+    "android/fastlane/Fastfile.playstore": "sha256:37d78705d6bd5a82396a618f4663d5a21e07c1c95aff7e0560d36f67eaccf3a3",
+    "ios/fastlane/Fastfile": "sha256:ef7320b9e15e4474f3c9724409a28fba6ce82bfb3e4535644bd8b4ffcae8de0f",
+    "ios/ExportOptions.plist": "sha256:6a37efbb081bce8ddd144656a4cec3846210aca6b64995dc4defd970a28aef0f"
+  }
+}
